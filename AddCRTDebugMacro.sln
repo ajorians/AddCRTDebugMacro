@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddCRTDebugMacro", "AddCRTDebugMacro\AddCRTDebugMacro.csproj", "{97FBA18F-5849-4F7E-BD3F-A0567D6E7125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97FBA18F-5849-4F7E-BD3F-A0567D6E7125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FBA18F-5849-4F7E-BD3F-A0567D6E7125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FBA18F-5849-4F7E-BD3F-A0567D6E7125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FBA18F-5849-4F7E-BD3F-A0567D6E7125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC02366A-C1D3-4493-95AC-CD481843ABD7}
+	EndGlobalSection
+EndGlobal
